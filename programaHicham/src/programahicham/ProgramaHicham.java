@@ -6,7 +6,7 @@ package programahicham;
 public class ProgramaHicham {
 
     public static void main(String[] args) {
-        System.out.println("La probabilidad de que el barça gane la champions es de 15%");  
+        System.out.println("La probabilidad de que el barça gane la champions es de 50%");  
     }
     
 }
